@@ -1,0 +1,8 @@
+[package]
+name = "von-neumann-drone"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.29.0"
+bevy_ecs = "0.15.0"
